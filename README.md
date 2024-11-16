@@ -9,10 +9,11 @@ While FlashPrint is a fine slicer and perfectly integrated to the Flashforge eco
 This was based of Orcaslicer V.2.2.0 for Windows. It may be possible to install the same files in MacOS or Linux versions of Orcaslicer but I don't have those OS and can't certify that it is possible.
 
 ### <ins>**How to install:**</ins>
-Recommendation only: rename file \program files\orcaslicer\resources\profiles\Flashforge.json to Flashforge.json.bk 
-Extract the RAR file in \program files\orcaslicer\resources\profiles\ (requires admin rights)
-Start OrcaSlicer
-Select Adventurer 4 printer
+_Recommendation only: rename file "\program files\orcaslicer\resources\profiles\Flashforge.json" to "Flashforge.json.bk"_
+
+- Extract the RAR file in \program files\orcaslicer\resources\profiles\ (requires admin rights)
+- Start OrcaSlicer
+- Select Adventurer 4 printer
 
 It will overwrite certain common files used among certain Flashforge printers profiles but it should not affect the ability to use them.
 
