@@ -12,12 +12,12 @@ This was based of Orcaslicer V.2.2.0 for Windows. It may be possible to install 
 _Recommendation only: rename file "\program files\orcaslicer\resources\profiles\Flashforge.json" to "Flashforge.json.bk"_
 Certain files will overwrite certain common files used among certain Flashforge printers profiles but it should not affect the ability to use them.
 
-####Under Windows####
+#### Under Windows ####
 - Extract the RAR file in \program files\orcaslicer\resources\profiles\ (requires admin rights)
 - Start OrcaSlicer
 - Select Adventurer 4 printer
 
-####Under MacOS#### 
+#### Under MacOS #### 
 Thanks to @lcoppenr for the steps
 
 - Open OrcaSlicer
