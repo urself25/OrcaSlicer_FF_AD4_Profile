@@ -10,12 +10,29 @@ This was based of Orcaslicer V.2.2.0 for Windows. It may be possible to install 
 
 ### <ins>**How to install:**</ins>
 _Recommendation only: rename file "\program files\orcaslicer\resources\profiles\Flashforge.json" to "Flashforge.json.bk"_
+Certain files will overwrite certain common files used among certain Flashforge printers profiles but it should not affect the ability to use them.
 
+####Under Windows####
 - Extract the RAR file in \program files\orcaslicer\resources\profiles\ (requires admin rights)
 - Start OrcaSlicer
 - Select Adventurer 4 printer
 
-It will overwrite certain common files used among certain Flashforge printers profiles but it should not affect the ability to use them.
+####Under MacOS#### 
+Thanks to @lcoppenr for the steps
+
+- Open OrcaSlicer
+- Goto Help - Show Configuration Folder
+- Leave the Finder windows with the configuration Folder open, but close OrcaSlicer
+- In the Finder window for the Configuration Folder, under System, delete Flashforge.json and the Flashforge folder if they exist. They existed for me as I had selected the Adv3 just to see what OrcaSlicer was like. On a clean install they may not exist.
+- Download the repository zip file (automatically extracts to Downloads typically)
+- Select and Copy the Flashforge.json and the Flashforge folder in the newly extracted download. (don't paste them anywhere yet)
+- Open Finder and the Applications folder
+- Two finger click or Right click on OrcaSlicer application and select Show Package Contents
+- Under Contents/Resources/profiles, Paste the previous copied Flashforge.json and Flashforge folder.
+- You'll be asked to Replace or Merge the Folders. You want to Merge them
+- Next you will be asked to Keep Both, Stop or Replace Flashforge.json. Select Replace
+- Open OrcaSlicer
+- You should see the Adventurer 4 in the printer selection list with 0.3, 0.4,0.6 nozzles and generic filaments.
 
 ### <ins>**How to remove**</ins>
 #### **"Easy" method**
