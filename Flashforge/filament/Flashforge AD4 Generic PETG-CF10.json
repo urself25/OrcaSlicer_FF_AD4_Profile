@@ -70,7 +70,7 @@
     "; filament end gcode \n"
   ],
   "filament_flow_ratio": [
-    "1"
+    "1.138"
   ],
   "filament_is_support": [
     "0"
