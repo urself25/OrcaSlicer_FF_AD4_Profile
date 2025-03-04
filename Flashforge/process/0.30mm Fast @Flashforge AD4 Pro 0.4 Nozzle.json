@@ -1,11 +1,11 @@
 {
     "type": "process",
-    "name": "0.20mm Standard @Flashforge AD4 0.4 Nozzle",
+    "name": "0.30mm Fast @Flashforge AD4 Pro 0.4 Nozzle",
     "inherits": "fdm_process_flashforge_common",
     "from": "system",
     "setting_id": "GP001",
     "instantiation": "true",
-    "layer_height": "0.2",
+    "layer_height": "0.3",
     "initial_layer_print_height": "0.3",
     "line_width": "0.4",
     "initial_layer_line_width": "0.4",
@@ -15,9 +15,9 @@
     "sparse_infill_line_width": "0.4",
     "internal_solid_infill_line_width": "0.4",
     "support_line_width": "0.4",
-    "initial_layer_speed": "35",
-    "initial_layer_acceleration": "50",
-    "initial_layer_infill_speed": "50",
+    "initial_layer_speed": "40",
+    "initial_layer_acceleration": "60",
+    "initial_layer_infill_speed": "60",
     "initial_layer_travel_speed": "150",
     "outer_wall_speed": "50",
     "inner_wall_speed": "100",
@@ -55,7 +55,7 @@
     "reduce_crossing_wall": "1",
     "max_travel_detour_distance": "50",
     "compatible_printers": [
-        "Flashforge Adventurer 4 Series 0.4 Nozzle"
+        "Flashforge Adventurer 4 Pro"
     ],
     "filename_format": "{input_filename_base}.gcode",
     "post_process": ""
