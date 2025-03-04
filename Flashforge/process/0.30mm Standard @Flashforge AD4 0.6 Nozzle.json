@@ -31,5 +31,6 @@
     "support_type": "tree(auto)",
     "top_surface_acceleration": "500",
     "travel_acceleration": "8000",
-    "travel_speed": "100"
+    "travel_speed": "100",
+    "version": "2.2.0.4"
 }

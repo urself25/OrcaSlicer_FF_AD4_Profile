@@ -21,10 +21,15 @@
         "1.2"
     ],
     "host_type": "flashforge",
+    "is_custom_defined": "0",
     "machine_max_acceleration_extruding": [
         "5000"
     ],
     "machine_max_speed_z": [
         "30"
-    ]
+    ],
+    "manual_filament_change": "0",
+    "print_host": "192.166.100.77",
+    "use_firmware_retraction": "1",
+    "version": "2.2.0.4"
 }
