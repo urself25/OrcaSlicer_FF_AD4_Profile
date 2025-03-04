@@ -1,0 +1,12 @@
+{
+    "type": "machine_model",
+    "name": "Flashforge Adventurer 4 Pro",
+    "model_id": "Flashforge-Adventurer-4Pro",
+    "nozzle_diameter": "0.4;0.6",
+    "machine_tech": "FFF",
+    "family": "Flashforge",
+    "bed_model": "flashforge_adventurer4pro_buildplate_model.STL",
+    "bed_texture": "flashforge_adventurer4pro_buildplate_texture.png",
+    "hotend_model": "",
+    "default_materials": "Flashforge ABS;Flashforge PETG;Flashforge PLA"
+}
