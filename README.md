@@ -1,5 +1,5 @@
 # OrcaSlicer_FF_AD4_Profile
-## **Orcalslicer profile for the Flashforge Adventurer 4**
+## **Orcalslicer profile for the Flashforge Adventurer 4 & 4 Pro**
 
 This project will allow a user to add a profile for the Flashforge Adventurer 4 in the official version of Orcaslicer and forks that uses the same structure.
 
