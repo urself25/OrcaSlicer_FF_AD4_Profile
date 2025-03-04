@@ -5,7 +5,7 @@ This project will allow a user to add a profile for the Flashforge Adventurer 4 
 
 **Until release of V1.0, current releases are still experimental and not all values included in the presets may be perfectly adjusted for the Adventurer 4 printer. While it will not brick your printer, print quality may not be optimal.**
 
-### <ins>**Why use Orcaslicer compared to FlashPrint?**</ins>
+### <ins>**Why use Orcaslicer over FlashPrint?**</ins>
 While FlashPrint is a fine slicer and perfectly integrated to the Flashforge ecosystem, it does not have the most recent slicing possibility, such as different infill geometries, are not part of it. Orcaslicer provide the flexibility and additional adjustments when slicing models. 
 
 This was based of Orcaslicer V.2.2.0 for Windows. It may be possible to install the same files in MacOS or Linux versions of Orcaslicer but I don't have those OS and can't certify that it is possible.
