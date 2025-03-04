@@ -1,6 +1,6 @@
 {
     "type": "process",
-    "name": "0.20mm Standard @Flashforge AD4 0.4 Nozzle",
+    "name": "0.20mm Standard @Flashforge AD4 Pro 0.4 Nozzle",
     "inherits": "fdm_process_flashforge_common",
     "from": "system",
     "setting_id": "GP001",
@@ -55,7 +55,7 @@
     "reduce_crossing_wall": "1",
     "max_travel_detour_distance": "50",
     "compatible_printers": [
-        "Flashforge Adventurer 4 Series 0.4 Nozzle"
+        "Flashforge Adventurer 4 Pro"
     ],
     "filename_format": "{input_filename_base}.gcode",
     "post_process": ""

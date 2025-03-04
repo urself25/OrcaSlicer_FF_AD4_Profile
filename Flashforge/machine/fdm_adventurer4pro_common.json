@@ -11,9 +11,7 @@
         "110x100",
         "-110x100"
     ],
-    "printable_height": [ 
-	"250"
-    ],
+    "printable_height": "250",
     "machine_max_acceleration_e": [
         "500"
     ],
@@ -39,10 +37,10 @@
         "30"
     ],
     "machine_max_speed_x": [
-        "300"
+        "200"
     ],
     "machine_max_speed_y": [
-        "300"
+        "200"
     ],
     "machine_max_speed_z": [
         "20"
@@ -98,9 +96,9 @@
     "use_relative_e_distances": "0",
     "z_hop_types": "Auto Lift",
     "wipe_distance": "2",
-    "extruder_clearance_radius": "50",
-    "extruder_clearance_height_to_rod": "30",
-    "extruder_clearance_height_to_lid": "200",
+    "extruder_clearance_radius": "42.3",
+    "extruder_clearance_height_to_rod": "24.93",
+    "extruder_clearance_height_to_lid": "250",
     "manual_filament_change": "1",
     "nozzle_type": "stainless_steel",
     "auxiliary_fan": "1",
