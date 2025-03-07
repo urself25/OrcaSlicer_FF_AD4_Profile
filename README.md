@@ -1,6 +1,6 @@
 # OrcaSlicer_FF_AD4_Profile
 ## **STATUS UPDATE AND FUTURE OF THIS PROJECT**
-2025/03/07: The Adventurer 4 profile has been approved for integration into the next iteration of Orcaslicer. This means that installation of seperate files will no longer be needed and the Adventurer 4 profile files will not be updated.
+2025/03/07: The Adventurer 4 profile has been approved for integration into the next iteration of Orcaslicer. This means that installation of seperate files will no longer be needed and the Adventurer 4 profile files will not be updated. For current users, when the next iteration of Orca is released, confirm in the Release Notes that the Adventurer 4 profile is actually included. Then, I would suggest to delete the flashforge folder under "\program files\orcaslicer\resources\profiles\Flashforge\"; and "\Users\username\AppData\Roaming\OrcaSlicer\system\Flashforge\" to make sure no previous files remain since the naming convention changed in future updates of Orcaslicer. This will prevent potential issues but rest assured that none of your user presets will be deleted.
 
 <ins>**Next steps: Adventurer 4 Pro**</ins>:
 While I don't own an Adventurer 4 Pro, I will do my best to make a profile for Orcaslicer. As such, testers will be needed to try it out and report any issues. A first attempt is already available under the Releases as V0.5. Next releases will however be based on the next iteration of Orcaslicer and previous versions will not be supported. 
