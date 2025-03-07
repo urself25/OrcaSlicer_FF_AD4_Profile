@@ -2,7 +2,7 @@
 ## **STATUS UPDATE AND FUTURE OF THIS PROJECT**
 2025/03/07: The Adventurer 4 profile has been approved for integration into the next iteration of Orcaslicer. This means that installation of seperate files will no longer be needed and the Adventurer 4 profile files will not be updated.
 
-<ins>**Next steps: Adventurer 4 Pro**</ins>
+<ins>**Next steps: Adventurer 4 Pro**</ins>:
 While I don't own an Adventurer 4 Pro, I will do my best to make a profile for Orcaslicer. As such, testers will be needed to try it out and report any issues. A first attempt is already available under the Releases as V0.5. Next releases will however be based on the next iteration of Orcaslicer and previous versions will not be supported. 
 
 ## **Orcalslicer profile for the Flashforge Adventurer 4**
